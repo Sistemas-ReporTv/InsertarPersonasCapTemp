@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\PC117\\Documents\\GitHub\\InsertarPersonasCapTemp\\InsertarPersonasCapTemp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7905F843-F8A1-43E8-BE85-D6D0722B443E}|InsertarPersonasCapTemp.csproj|c:\\users\\pc117\\documents\\github\\insertarpersonascaptemp\\insertarpersonascaptemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7905F843-F8A1-43E8-BE85-D6D0722B443E}|InsertarPersonasCapTemp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7905F843-F8A1-43E8-BE85-D6D0722B443E}|InsertarPersonasCapTemp.csproj|c:\\users\\pc117\\documents\\github\\insertarpersonascaptemp\\insertarpersonascaptemp\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7905F843-F8A1-43E8-BE85-D6D0722B443E}|InsertarPersonasCapTemp.csproj|solutionrelative:datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7905F843-F8A1-43E8-BE85-D6D0722B443E}|InsertarPersonasCapTemp.csproj|c:\\users\\pc117\\documents\\github\\insertarpersonascaptemp\\insertarpersonascaptemp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7905F843-F8A1-43E8-BE85-D6D0722B443E}|InsertarPersonasCapTemp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7905F843-F8A1-43E8-BE85-D6D0722B443E}|InsertarPersonasCapTemp.csproj|c:\\users\\pc117\\documents\\github\\insertarpersonascaptemp\\insertarpersonascaptemp\\utilmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7905F843-F8A1-43E8-BE85-D6D0722B443E}|InsertarPersonasCapTemp.csproj|solutionrelative:utilmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7905F843-F8A1-43E8-BE85-D6D0722B443E}|InsertarPersonasCapTemp.csproj|c:\\users\\pc117\\documents\\github\\insertarpersonascaptemp\\insertarpersonascaptemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7905F843-F8A1-43E8-BE85-D6D0722B443E}|InsertarPersonasCapTemp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\PC117\\Documents\\GitHub\\InsertarPersonasCapTemp\\InsertarPersonasCapTemp\\App.config",
               "RelativeDocumentMoniker": "App.config",
               "ToolTip": "C:\\Users\\PC117\\Documents\\GitHub\\InsertarPersonasCapTemp\\InsertarPersonasCapTemp\\App.config",
               "RelativeToolTip": "App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-27T02:03:10.842Z",
+              "WhenOpened": "2024-06-28T13:11:26.564Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Datos.cs",
-              "DocumentMoniker": "C:\\Users\\PC117\\Documents\\GitHub\\InsertarPersonasCapTemp\\InsertarPersonasCapTemp\\Datos.cs",
-              "RelativeDocumentMoniker": "Datos.cs",
-              "ToolTip": "C:\\Users\\PC117\\Documents\\GitHub\\InsertarPersonasCapTemp\\InsertarPersonasCapTemp\\Datos.cs",
-              "RelativeToolTip": "Datos.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAmwHoAAAAIAAAA",
+              "Title": "UtilMail.cs",
+              "DocumentMoniker": "C:\\Users\\PC117\\Documents\\GitHub\\InsertarPersonasCapTemp\\InsertarPersonasCapTemp\\UtilMail.cs",
+              "RelativeDocumentMoniker": "UtilMail.cs",
+              "ToolTip": "C:\\Users\\PC117\\Documents\\GitHub\\InsertarPersonasCapTemp\\InsertarPersonasCapTemp\\UtilMail.cs",
+              "RelativeToolTip": "UtilMail.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowFUAAAB2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T01:59:57.105Z",
+              "WhenOpened": "2024-07-01T13:39:20.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC117\\Documents\\GitHub\\InsertarPersonasCapTemp\\InsertarPersonasCapTemp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\PC117\\Documents\\GitHub\\InsertarPersonasCapTemp\\InsertarPersonasCapTemp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA4wAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T01:57:17.597Z",
               "EditorCaption": ""

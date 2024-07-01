@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsertarPersonasCapTemp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83571302a574378553b03c5332cbb36c0c34d180")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71085a45da34d3ccd203aaa4975912a24b80e75f")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsertarPersonasCapTemp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsertarPersonasCapTemp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

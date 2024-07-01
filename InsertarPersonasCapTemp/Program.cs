@@ -7,6 +7,7 @@ public class Program
     private static Datos _datos = new Datos();
     private static UtilMail _utilMail = new UtilMail();
 
+    //[PF - 07/2024] si vas a debuggear este proceso porfis abrilo con vs 2022 antes xq sino vas a tener errores de sdk .net
     private static void Main()
     {
         try
@@ -130,7 +131,7 @@ public class Program
 
             fechaFinalizacionProceso = DateTime.Now;
             duracionProceso = fechaFinalizacionProceso - fechaInicioProceso;
-            procesosAndTiempos.Add(new InfoMail("Actores Temporada", actoresTemporada.Count, fechaInicioProceso, fechaFinalizacionProceso, duracionProceso));
+            procesosAndTiempos.Add(new InfoMail("Actores Temporada", cantPersonasAprocesar, fechaInicioProceso, fechaFinalizacionProceso, duracionProceso));
             Console.WriteLine("Se terminaron de procesar todos los actores temporada en: " + duracionProceso + "\n");
             #endregion
 
